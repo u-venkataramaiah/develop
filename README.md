@@ -1,2 +1,2 @@
 # develop
-deployment
+deployment of project
